@@ -1,0 +1,11 @@
+{
+  "name": "zakat-ts-rikaz-maadin-khums",
+  "version": "1.0.0",
+  "description": "Rikaz Buried Treasure Khums (20%) & Ma'adin Mineral Calculator (حاسبة زكاة الركاز والمعادن والكنوز المستخرجة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
